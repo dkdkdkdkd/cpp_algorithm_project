@@ -13,10 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\a">
+      <UniqueIdentifier>{09819073-b90d-4b59-8dc4-ed923e03fb6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\sw_">
+      <UniqueIdentifier>{d7e1b9e7-aef9-4e6f-9d32-84cb4ba892b4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="baby-gin_array.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="sort.cpp">
+      <Filter>소스 파일\a</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_1.cpp">
+      <Filter>소스 파일\sw_</Filter>
+    </ClCompile>
+    <ClCompile Include="day_1_2.cpp">
+      <Filter>소스 파일\sw_</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_3.cpp">
+      <Filter>소스 파일\sw_</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
